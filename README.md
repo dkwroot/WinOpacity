@@ -8,7 +8,10 @@ Why it's useful:
 You can do things like make your video player see through and then draw on a paint application beneath it, essentially making it easy to rotoscope.
 You could also use it to pin videos or notes to parts of your screen and keep them there while you work.
 
-How to Install:
+Use Options:
+You can either use the python script or the exe file bundled with the zip file.
+
+Using Executable:
 Simply download the zip file to your system and unzip it. Inside you will find an exe file, just run it and you're done.
 
 Requirements:
