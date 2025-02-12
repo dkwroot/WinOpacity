@@ -1,6 +1,6 @@
 WinOpacity Application
 
-What is does:
+What it does:
 This application allows you to change the opacity of a window in your operating system allowing you to see through a window and at a window beneath it.
 It also allows you to toggle whether a window is always on top and if it can be clicked-through allowing you to click on windows beneath it.
 
